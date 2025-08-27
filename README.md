@@ -51,7 +51,7 @@ This workflow describes the **subscription selection and payment process**, cove
 * Clear fallback option if payment fails
 * Distinction between default and premium plans
 
-🖼️ **Diagram**
+
 <img width="1384" height="786" alt="Screenshot 2025-08-27 231609" src="https://github.com/user-attachments/assets/a318d503-17ec-45ae-b574-c70787aeae52" />
 
 ---
